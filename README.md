@@ -1,7 +1,7 @@
 ### Iai, minha joia! Sou João Victor. 👋
 
 
-- 🔭 Sou estudante de engenharia
+- 🔭 Sou estudante de engenharia de telecomunicações - UFC
 - 🌱 Estudando WebDev e Python
 - 😄 Pronouns: ele/dele
 <div align="center">

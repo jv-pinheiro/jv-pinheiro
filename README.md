@@ -1,8 +1,8 @@
 ### Iai! Sou João Victor. 👋
 
 
-- 🔭 Sou estudante de engenharia de telecomunicações - UFC
-- 🌱 Estudando WebDev e Python
+- 🔭 Sou engenheiro de telecomunicações - UFC
+- 🌱 Dev WebDev e Python (Automações, IA, Dados, etc)
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/jv-pinheiro">

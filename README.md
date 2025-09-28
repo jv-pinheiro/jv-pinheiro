@@ -2,7 +2,7 @@
 
 
 - 🔭 Sou engenheiro de telecomunicações - UFC
-- 🌱 Dev WebDev e Python (Automações, IA, Dados, etc)
+- 🌱 Dev Web e Python (Automações, IA, Dados, etc)
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/jv-pinheiro">
